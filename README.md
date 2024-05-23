@@ -1,36 +1,48 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Disney Clone
 
-## Getting Started
+## Table of Contents
 
-First, run the development server:
+- [Overview](#overview)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Usage](#usage)
+- [Project Preview](#project-preview)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Overview
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Disney Clone is a replica of the popular Disney+ streaming platform. It is built with modern web technologies including Next.js, Tailwind CSS, TypeScript, Shadcn, and incorporates caching for enhanced performance and user experience. The project utilizes the TMDB API to fetch movie details, including names, descriptions, images, and more.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Features
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- **Responsive Design:** Seamless experience across all devices.
+- **Caching:** Improved performance with caching strategies.
+- **Interactive UI:** Engaging and user-friendly interface.
+- **Dynamic Content:** Fetches and displays dynamic content efficiently using the TMDB API.
+- **Search Functionality:** Find your favorite movies and shows easily.
+- **Genre Dropdown:** Filter movies by genre.
 
-## Learn More
+## Technologies Used
 
-To learn more about Next.js, take a look at the following resources:
+- **Next.js:** React framework for server-side rendering and static site generation.
+- **Tailwind CSS:** Utility-first CSS framework for rapid UI development.
+- **TypeScript:** Typed superset of JavaScript that compiles to plain JavaScript.
+- **Shadcn:** Component library for building UIs.
+- **TMDB API:** Used to fetch movie details like names, descriptions, images, etc.
+- **Caching:** Implemented using various strategies for performance optimization.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Usage
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- **Home Page:** Browse featured content and categories.
+- **Movie/Show Details:** View detailed information about selected content fetched from the TMDB API.
+- **Search:** Use the search bar to find specific movies or shows.
+- **Genre Filtering:** Filter movies by selecting a genre to display movies of the chosen category.
 
-## Deploy on Vercel
+## Project Preview
+https://github.com/Junaid0137/DisneyHotstarClone/assets/110022476/3230fd51-b1f5-4ef1-9397-79afcfeb229d
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+
+
+
