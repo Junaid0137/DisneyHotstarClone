@@ -37,6 +37,9 @@ Disney Clone is a replica of the popular Disney+ streaming platform. It is built
 - **Search:** Use the search bar to find specific movies or shows.
 - **Genre Filtering:** Filter movies by selecting a genre to display movies of the chosen category.
 
+## Website Link
+https://disneyhotstar-clone.vercel.app/
+
 ## Project Preview
 https://github.com/Junaid0137/DisneyHotstarClone/assets/110022476/3230fd51-b1f5-4ef1-9397-79afcfeb229d
 
